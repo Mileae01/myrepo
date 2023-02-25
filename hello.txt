@@ -1,2 +1,2 @@
-hello from learning git
+learning git
 hello again
